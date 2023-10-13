@@ -1,3 +1,4 @@
+//Nested functions sample
 function nestedFunction(x)
 {
     x = 50 ; // this overrides the value that was received by the function
